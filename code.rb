@@ -1,3 +1,4 @@
+puts "hello"
 puts "Let's play Rock, Paper, Scissors!"
 wins = {:player=>0, :computer=>0}
 r_p_s = {"rock"=>"r", "paper"=>"p", "scissors"=>"s"}
